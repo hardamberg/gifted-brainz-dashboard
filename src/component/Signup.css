@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+section{
+    height: 100vh;
+    width: 100%;
+}
+.giftedlogo{
+    height: 30vh;
+
+}
+
+.logo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.input{
+    padding: 5px 100px;
+    border-radius: 10px;
+    border-color: darkgrey;
+   margin-bottom:10px;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.check{
+    display: flex;
+    flex-direction: row;
+    padding-right: 30px;
+    padding-top: 20px;
+    
+
+}
+
+a{
+    text-decoration: none;
+
+}
+
+.checkbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.click{
+    padding-top: 20px;
+}
